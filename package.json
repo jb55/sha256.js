@@ -1,14 +1,14 @@
 {
-  "name": "js-sha256",
+  "name": "sha256.js",
   "version": "0.1.1",
   "description": "A simple SHA-256 / SHA-224 hash function for JavaScript supports UTF-8 encoding.",
-  "main": "src/sha256.js",
+  "main": "index.js",
   "scripts": {
     "test": "node tests/node-test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emn178/js-sha256.git"
+    "url": "https://github.com/jb55/sha256.js.git"
   },
   "keywords": [
     "sha",
@@ -22,8 +22,8 @@
   ],
   "license": "MIT",
   "author": "emn178 <emn178@gmail.com>",
-  "homepage": "https://github.com/emn178/js-sha256",
+  "homepage": "https://github.com/jb55/sha256.js",
   "bugs": {
-    "url": "https://github.com/emn178/js-sha256/issues"
+    "url": "https://github.com/jb55/sha256.js/issues"
   }
 }
